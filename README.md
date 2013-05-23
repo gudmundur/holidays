@@ -43,7 +43,6 @@ var holidays = require('holidays')
 
 Return an array with the holidays for a given year. Note that the hour part specifies after which hour in the day is it becomes a holiday.
 
-
 # Install
 
 With [npm](https://npmjs.org) do:
